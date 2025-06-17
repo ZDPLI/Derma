@@ -1,0 +1,5 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+gradio==3.50.2
