@@ -1,0 +1,5 @@
+[
+  {"username": "admin", "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918", "is_admin": true, "subscription": true},
+  {"username": "demo", "password": "2a97516c354b68848cdbd8f54a226a0a55b21ed138e207ad6c5cbb9c00aa5aea", "is_admin": false, "subscription": true}
+]
+
